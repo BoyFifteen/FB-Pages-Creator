@@ -1,5 +1,3 @@
----
-
 # Facebook Page (Profile Plus) Creator
 
 A lightweight Python script to automate the creation of Facebook Pages (Profile Plus) using GraphQL and Bloks API. This tool allows you to programmatically create pages by specifying a name, category ID, and a valid access token.
